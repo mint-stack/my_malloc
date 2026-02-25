@@ -27,5 +27,6 @@ jobs:
       - name: Build and Test
         shell: bash
         run: |
+          bundle install
           bundle exec rake compile
           bundle exec rake test
