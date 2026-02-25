@@ -1,2 +1,3 @@
 # my_malloc
-拡張機能付きGem - RubyGemsガイド
+Gems with Extensions - RubyGems Guides
+(https://guides.rubygems.org/gems-with-extensions/)
